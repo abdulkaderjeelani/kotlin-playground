@@ -11,4 +11,4 @@ out/
 
 # cache and log files.
 *.DS_Store
-
+.vscode/
